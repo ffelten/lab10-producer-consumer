@@ -1,0 +1,6 @@
+(executables
+ (public_names producer_consumer)
+ (names producer_consumer)
+ (libraries threads)
+ (flags (:standard -I +threads))
+ )
